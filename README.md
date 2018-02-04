@@ -12,9 +12,12 @@ Sample website with plenty of files for demos
 ## Introduction
 This is the introduction text.
 
-##How to continue
+## How to continue
 
 Please fork this repository and then issue Pull Request for review.
+
+## Chnages for Dev 1
+There are some chnages for Dev 1
 
 ## Deployment
 This is simple web project, deployment can be on any web.
