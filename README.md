@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 adding text to rebashing file. more changes to file.
 adding changes after stash.
+making changes for multiple stash example.
 
 ## Purpose
 
