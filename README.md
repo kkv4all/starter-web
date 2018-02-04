@@ -11,3 +11,7 @@ This is the introduction text.
 
 ## Deployment
 This is simple web project, deployment can be on any web.
+
+## Copyright
+
+Copyright notice
